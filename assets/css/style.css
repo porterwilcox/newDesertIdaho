@@ -67,7 +67,6 @@ body {
 
 .amazon-btn {
   color: black;
-
 }
 
 .btn,
@@ -79,7 +78,7 @@ body {
 }
 
 .card-columns {
-  column-count: 4;
+  column-count: 5;
 }
 
 h5 {
