@@ -424,8 +424,193 @@ export default class Poems1 {
     That fills my mind with wonder.   
     `
 
+    sheepRoam = `
+    Sheep roam hillside<br />
+    Beneath soft summer skies<br />
+    Aware of the knife in the barn.<br />
+    Sweet grass underfoot,<br />
+    Shepherds guarding each step,<br />
+    Sheep eat their fill...<br />
+    For a time.<br />
+    My mind knows the truth, that<br />
+    Men wear sheep masks,<br />
+    My heart dulls the pain<br />
+    And the blade.   
+    `
 
+    theQuietTree = `
+    There is no justice.<br />
+    You are free to choose,<br />
+    But you are not free.<br />
+    Dynastic powers manipulate<br />
+    Our beautiful world,<br />
+    Corrupting what could be.<br />
+    I’m sick of superficial civility,<br />
+    I’m sick of powerful elite,<br />
+    I’m sick of insatiable avarice<br />
+    Burning flesh from human beings.<br />
+    There is no justice,<br />
+    There never has been,<br />
+    There never will be.<br />
+    I’m a strong man, but<br />
+    There’s a heaviness<br />
+    Upon my chest and shoulders<br />
+    Making it difficult to breathe.<br />
+    I want for a gentle humanity,<br />
+    I want for the quiet tree.  
+    `
 
+    waterKeepsCalm = `
+    Angular marina jetty rocks,<br />
+    Brown from harborside light reflection,<br />
+    Find symmetry in a quiet night’s waterline,<br />
+    Extending the image of a rock barrier wall<br />
+    Hiding in the North Pacific December sea.<br />
+    How many days till the tsunami?<br />
+    How many days to live dreams?<br />
+    A pelican’s aloft squawk rattles the shadows.<br />
+    The deep water keeps calm for a while.   
+    `
+
+    wintersThaw = `
+    Lake ice melts in the shadows of spring birch,<br />
+    Amid a new heart, smiling<br />
+    Like a clear night Alaskan-sky half moon.<br />
+    Let the water hold you<br />
+    Let your spirit dance carefree,<br />
+    Play the music loudly<br />
+    As your skip from then to now.<br />
+    Pray the sky will save you<br />
+    Pray your mind forgets,<br />
+    Trust the glassy water<br />
+    Hiding monsters in deep depths.<br />
+    Some will love you truly,<br />
+    Others fade in winter’s thaw.   
+    `
+
+    diveHeadlong = `
+    The river is part roil and froth, like love<br />
+    Persistent in finding a way,<br />
+    Dangerous in all its beauty,<br />
+    Tranquil ‘round unknown bends.<br />
+    Don’t stand idly by on distant safe shores<br />
+    As the wonder passes you by.<br />
+    Descend the rocky banks cautiously,<br />
+    Dive headlong into the magic, and<br />
+    Don’t forget to breathe.   
+    `
+
+    towardTheDistantMountain = `
+    Love is every footfall toward the distant mountain,<br />
+    Anxious and incomplete.<br />
+    Are we so different from the mountains?<br />
+    Reshaped by stormy days,<br />
+    Born of colliding forces,<br />
+    Immovable, yet temporary.<br />
+    I am deserts and mountains and birds,<br />
+    I am love and anger and want,<br />
+    I am, and I am not.   
+    `
+
+    washesCleanThePast = `
+    Air currents lean toward the setting Idaho sun<br />
+    Shifting to and fro like adolescent dreams,<br />
+    Shadows wrap ‘round the bend<br />
+    Darkening the lapping waterline<br />
+    Softly flowing toward the rising sea.<br />
+    A fisherman casts hopes with a practiced flick,<br />
+    Someone splits fresh fallen kindling<br />
+    As magic warms the river rock circle, and<br />
+    Ignites the lovers’ lust under a rising waxing moon.<br />
+    River days fill the boater’s venerable spirit,<br />
+    River nights refresh his simple soul, and<br />
+    Tomorrow’s morning dew washes clean the past.   
+    `
+
+    nearToTheCanyon = `
+    He walks slowly near to the canyon’s edge,<br />
+    Sees a lone lizard tiptoe on burning rocks, and<br />
+    Birds alight from blue freedom<br />
+    Circling waterfall cirque nests before landing.<br />
+    Hot afternoon updrafts carry his weathered soul<br />
+    High overhead the snaking river,<br />
+    So many years of meandering water<br />
+    Carving white esses in desert brown walls,<br />
+    Walls painted in petroglyph red honor<br />
+    Of those who walked near to the canyon, and<br />
+    Breathed basalt Idaho Indian fires.  
+    `
+
+    wanderingWinds = `
+    If wandering winds find shelter in your heart<br />
+    Thank the birch and sweet Alaska rain,<br />
+    They have known love too—<br />
+    Unafraid heroes caped in forest green—<br />
+    Silent in rugged determination,<br />
+    Graceful in their sway,<br />
+    Sprouting buds of ancient hope<br />
+    Until overwhelming the forest’s grateful soul.
+    `
+
+    desertIdaho = `
+    Saying things you regret makes them<br />
+    Never unsaid,<br />
+    Setting desert Idaho sun between us—<br />
+    With cirrus alight in kaleidoscope high strata<br />
+    Whispering memory is often the better lover.<br />
+    Pine trees carve tender soft angular light.<br />
+    Birds cross the fading sky orange to black.   
+    `
+
+    evenTheTruest = `
+    Even the truest sweet love<br />
+    Soaring skyward purely<br />
+    Cannot capture her entire heart,<br />
+    Nor should it, you beautiful bird.  
+    `
+
+    trustLove = `
+    Trust love and only love.<br />
+    If it destroys you<br />
+    In an unforeseen tragedy,<br />
+    You still win.   
+    `
+
+    newsSwirls = `
+    News swirls into the world<br />
+    Video after video, unending,<br />
+    Spectacular displays of force<br />
+    Of one upon another<br />
+    In ways that haunt our belief in each other.<br />
+    But I’ve seen with my own eyes,<br />
+    And felt in my own life,<br />
+    Wind lifting birds in the breeze.<br />
+    So I demand of myself<br />
+    To be kind,<br />
+    As best I can.   
+    `
+
+    asYouMoveBoldly = `
+    As you move boldly from this time to next<br />
+    Focus on the steps,<br />
+    Firmly advancing your decision<br />
+    Despite true worries undercutting your confidence.<br />
+    Know that love is a swifter current than fear,<br />
+    And that billowing rapids grant many safe passages.<br />
+    Trust in those who prove their loyalty,<br />
+    And judge not the jealous others silently praying for your failure,<br />
+    Their duplicitous smiles fading steadily in the growing distance.  
+    `
+
+    dutyToAdventure = `
+    Duty to adventure is imperative<br />
+    In the greater life you seek,<br />
+    And from the windy mountain precipice<br />
+    You will see the valley muddy footprints<br />
+    That brought you to now—<br />
+    A most beautiful now,<br />
+    In an uncertain late afternoon sky.   
+    `
 
     poems1() {
         let data = 
@@ -452,9 +637,21 @@ export default class Poems1 {
             {id: "began-to-drift", img: "beganToDrift.jpg", title: "Began to Drift", poem: this.beganToDrift},
             {id: "symphony-of-aliveness", img: "symphonyOfAliveness.jpg", title: "Symphony of Aliveness", poem: this.symphonyOfAliveness},
             {id: "navigating-a-galaxy", img: "navigatingAGalaxy.jpg", title: "Navigating a Galaxy", poem: this.navigatingAGalaxy},
-
-
-
+            {id: "sheep-roam", img: "sheepRoam.jpg", title: "Sheep Roam", poem: this.sheepRoam},
+            {id: "the-quiet-tree", img: "theQuietTree.jpg", title: "The Quiet Tree", poem: this.theQuietTree},
+            {id: "water-keeps-calm", img: "waterKeepsCalm.jpg", title: "Water Keeps Calm", poem: this.waterKeepsCalm},
+            {id: "winters-thaw", img: "wintersThaw.jpg", title: "Winter's Thaw", poem: this.wintersThaw},
+            {id: "dive-headlong", img: "diveHeadlong.jpg", title: "Dive Headlong", poem: this.diveHeadlong},
+            {id: "toward-the-distant-mountain", img: "towardTheDistantMountain.jpg", title: "Toward the Distant Mountain", poem: this.towardTheDistantMountain},
+            {id: "washes-clean-the-past", img: "washesCleanThePast.jpg", title: "Washes Clean the Past", poem: this.washesCleanThePast},
+            {id: "near-to-the-canyon", img: "nearToTheCanyon.jpg", title: "Near to the Canyon", poem: this.nearToTheCanyon},
+            {id: "wandering-winds", img: "wanderingWinds.jpg", title: "Wandering Winds", poem: this.wanderingWinds},
+            {id: "desert-idaho", img: "desertIdaho.jpg", title: "Desert Idaho", poem: this.desertIdaho},
+            {id: "even-the-truest", img: "evenTheTruest.jpg", title: "Even the Truest", poem: this.evenTheTruest},
+            {id: "trust-love", img: "trustLove.jpg", title: "Trust Love", poem: this.trustLove},
+            {id: "news-swirls", img: "newsSwirls.jpg", title: "News Swirls", poem: this.newsSwirls},
+            {id: "as-you-move-boldly", img: "asYouMoveBoldly.jpg", title: "As You Move Boldly", poem: this.asYouMoveBoldly},
+            {id: "duty-to-adventure", img: "dutyToAdventure.jpg", title: "Duty to Adventure", poem: this.dutyToAdventure},
 
         ]
         return data

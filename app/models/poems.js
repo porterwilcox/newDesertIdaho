@@ -7,17 +7,12 @@ export default class Poems {
     let template = ""
     for (let i = 0; i < this.poemsArray.length; i++) {
       template += `
+      <a data-toggle="modal" data-target="#${this.poemsArray[i].id}">
       <div class="card border-secondary shadow">
           <img class="card-img-top mt-3 px-2" src="assets/img/${this.poemsArray[i].img}" alt="Card image cap">
           <div class="card-body">
               <h4 class="card-title text-center">${this.poemsArray[i].title}</h4>
-              <!-- Button trigger modal -->
-              <div class="d-flex justify-content-center pt-2">
-                  <button type="button" class="btn btn-outline-dark shadow px-4" data-toggle="modal"
-                      data-target="#${this.poemsArray[i].id}">
-                      Read
-                  </button>
-              </div>
+              
               <!-- Modal -->
               <div class="modal fade" id="${this.poemsArray[i].id}" tabindex="-1" role="dialog"
                   aria-labelledby="${this.poemsArray[i].title}" aria-hidden="true">
@@ -47,21 +42,13 @@ export default class Poems {
                                   Donate
                                   <i class="ml-1 fab fa-bitcoin"></i>
                               </a>
-                              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                                  <input type="hidden" name="cmd" value="_s-xclick">
-                                  <input type="hidden" name="hosted_button_id" value="G6TKWMTHUUZZ2">
-                                  <input type="image"
-                                      src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-                                      name="submit" alt="PayPal - The safer, easier way to pay online!">
-                                  <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"
-                                      height="1">
-                              </form>
                           </div>
                       </div>
                   </div>
               </div>
           </div>
       </div>
+      </a>
       `
     }
     return template

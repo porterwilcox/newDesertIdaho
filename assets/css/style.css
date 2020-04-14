@@ -3,7 +3,7 @@ body {
   font-style: oblique;
   overflow-x: hidden;
   color: #2d2d2e !important;
-  margin-top: -3vh;
+  margin-top: -3.5vh;
 }
 
 #top-title-subtitle {
@@ -28,6 +28,7 @@ body {
   font-size: 2rem;
   text-decoration: none;
   color: gray;
+  margin-left: 11vw;
 }
 
 .down {
@@ -53,6 +54,7 @@ body {
 .about-box {
   border-radius: 5px;
   border: 1px solid rgb(110, 110, 110);
+  background-color: black;
 }
 
 .about {
@@ -68,6 +70,9 @@ body {
 
 .amazon-btn {
   color: black;
+  padding-top: 0.65vh;
+  padding-bottom: 0.65vh;
+  font-size: 1.02rem;
 }
 
 .btn,
@@ -80,6 +85,10 @@ body {
 
 .card-columns {
   column-count: 5;
+}
+
+.card {
+  cursor: pointer;
 }
 
 h5 {
@@ -111,6 +120,7 @@ input {
   font-family: Arial, Helvetica, sans-serif;
   font-style: oblique;
   font-size: large;
+  margin-right: 2vw !important;
 }
 
 .pagination a {
@@ -127,6 +137,16 @@ input {
 
 .pagination a:hover:not(.active) {
   background-color: yellow;
+}
+
+.padding2 {
+  margin-left: -1vw !important;
+}
+
+footer {
+  background-color: black;
+  min-width: 100vw !important;
+  margin-left: -2vw;
 }
 
 @media (max-width: 1050px) and (min-width: 701px) {
