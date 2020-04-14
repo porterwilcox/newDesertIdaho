@@ -3,6 +3,7 @@ body {
   font-style: oblique;
   overflow-x: hidden;
   color: #2d2d2e !important;
+  margin-top: -3vh;
 }
 
 #top-title-subtitle {

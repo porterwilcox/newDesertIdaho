@@ -9,9 +9,14 @@ function drawPoems() {
 
 //Public
 export default class PoemsController {
-  constructor() {
-    _ps.addSubscriber('poems', drawPoems)
-    _ps.getPoems()
+  constructor(about) {
+    _ps.addSubscriber('poems', drawPoems) 
+    if (about != null) {
+      _ps.getPoems1()
+    }
+    else {
+      _ps.getPoems2()
+    }
   }
-
+  
 }

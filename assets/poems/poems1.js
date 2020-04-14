@@ -1,5 +1,6 @@
 //Public
 export default class Poems1 {
+    
     nationalEmpire = `
     Hungry and afraid they soldiered onward </br>
     Finding peace in the simplest of things— </br>
@@ -37,7 +38,7 @@ export default class Poems1 {
     He committed to stand with Julian, <br />
     As truth will break their spines.`
 
-    missteps = `
+    misstepsOfGoodIntentions = `
     From missteps of good intentions <br />
     The wanderer became unwelcome <br />
     In his trek through gray-brown desert. <br />
@@ -253,14 +254,186 @@ export default class Poems1 {
     Evanescent in the ether between stars.  
     `
 
+    pastPresent = `
+    With grand uncertainty, and<br />
+    A tender heart, I plead with<br />
+    The spinning of our worlds.<br />
+    Waves and cirrostratus<br />
+    Tell different stories<br />
+    Of the same blue sky,<br />
+    Changing each breath, and<br />
+    Minds racing when we see each-other,<br />
+    Past present, like the wind.<br />
+    There will always be you<br />
+    And the flowers, and<br />
+    The day you never knew about<br />
+    That I want so badly to share, for<br />
+    You are on high in my mind.<br />
+    From a place of deep caring,<br />
+    Desert and the sun.  
+    `
+
+    tyrannyAfoot = `
+    I hear the crickets outside my open summer morning balcony door,<br />
+    And a breeze, perfect across my arm and face.<br />
+    I know.<br />
+    The world can be a beautiful place.<br />
+    Colors, laughter, children, friendship, loyalty, yet<br />
+    I’ve met strangers I fell in love with<br />
+    That showed me the world is a much darker space, where<br />
+    Bombs are dropped on good people, and<br />
+    Banks that create money from nothing<br />
+    Guarantee none of us are free in the end.<br />
+    There’s a tyranny afoot<br />
+    So insidious to normality<br />
+    That the insanity of modern life<br />
+    Is lost on every unthinking being,<br />
+    Led to slaughter by their kings.<br />
+    You see, there’s a nobility,<br />
+    Two classes coexist,<br />
+    Those close to the money printers, and<br />
+    Those more removed.<br />
+    Do you suppose anything about life is truly<br />
+    Set up for your advantage and good health?<br />
+    Then you don’t hear the crickets.<br />
+    Life is a beautiful,<br />
+    Horrible war every day to exist.   
+    `
+
+    myGrandfathersShop = `
+    I recall with perfect clarity,<br />
+    Yet an inability to describe,<br />
+    The smell of my grandfather’s shop<br />
+    From when I was a young, happy boy.<br />
+    There existed a faint aura of magic<br />
+    About the simple cinder block structure,<br />
+    A shop wherein my grandfather fixed his old Ford,<br />
+    A soft veil of dust swimming in the air, and<br />
+    Filtered light pushing through the weathered translucent door.<br />
+    Very infrequently I get a whiff, ever so slight,<br />
+    That brings a smile to my face all these years later<br />
+    As I’m reminded of my brave grandfather’s shop, and<br />
+    The beautiful, innocent days playing childish games<br />
+    At his home in Idaho.<br />
+    My grandfather died too early, unfairly, in a daze of dementia,<br />
+    Forgetting me.<br />
+    I miss you grandpa, I want to see you again, and tell you<br />
+    Thanks for teaching me how to play chess, and<br />
+    Thanks for all your effort in life.<br />
+    I’m sorry a motorcycle accident caused you to limp and suffer,<br />
+    I know pain now too.<br />
+    Since I didn’t tell you as a child<br />
+    I want to say loudly now—<br />
+    I’m proud of you grandpa, and<br />
+    Thank you for my name.  
+    `
+
+    trespassInItsResplendence = `
+    A pause, then piercing silence in the windstorm<br />
+    Lasting long enough for me to be thankful<br />
+    For a brief reprieve from the rattles and din<br />
+    Ravaging our Balboa Bay mineral exploration tent-camp<br />
+    On a frightening August Alaska Peninsula night.<br />
+    The wild ruckus is perfect cover for the bear to attack, and<br />
+    I swear I hear the wounded brown bear’s passing footsteps<br />
+    Just outside my flapping tent, as it<br />
+    Hunts for the man that shot him yesterday for proximity violation.<br />
+    Several more hours before sunrise,<br />
+    Yet I’m wide awake from the menacing uproar,<br />
+    Appropriately worried,<br />
+    Alone in the darkness,<br />
+    Silently pleading with the bear and the blustering gales<br />
+    To postpone the battle.<br />
+    Someday this rugged land might take me away.<br />
+    Until then I choose to trespass in its resplendence,<br />
+    On a narrow, mountainous, alder strip of land<br />
+    Separating the mighty Pacific Ocean from the angry Bering Sea.   
+    `
+
+    itsAChoiceToBeKind = `
+    She knew injustice from a distance<br />
+    It pained her just the same,<br />
+    No, not the same,<br />
+    But tears did well from her eyes<br />
+    Wetting the backs of her hands, her arms<br />
+    As she relived the images of his death—<br />
+    A Nigerian man she never knew<br />
+    Bludgeoned for some unknown reason, repeatedly,<br />
+    And thrown into a shallow burning pit, alive.<br />
+    He struggled for while, the man, burning.<br />
+    You know how this ends,<br />
+    And so does she, and she can never forget<br />
+    The horror of mankind.<br />
+    It’s a choice to carry on.<br />
+    It’s a choice to be kind.
+    `
+
+    aManOfCourage = `
+    Maria Flores loves her father,<br />
+    Knowing who he is—<br />
+    A man of courage—<br />
+    Carving his empire<br />
+    From the cactus dotted desert hillside near Hidalgo<br />
+    Where his prized Espadín agave farm<br />
+    Crafts the finest musty Mezcal añejo in a generation.<br />
+    Maria especially loves her father for his generosity, where<br />
+    In a land of constant struggle,<br />
+    Replete in vibrant cultural ardor, and<br />
+    Dirty flowing water in the streets<br />
+    Past hungry barefoot children,<br />
+    He welcomes strangers with work, and<br />
+    Peaceful, noble sweat-stained sleep.<br />
+    Despised by his jealous enemies,<br />
+    Maria’s father smiles brightest<br />
+    Each time she enters the room.  
+    `
+
+    beganToDrift = `
+    An ice shelf cracked<br />
+    Began to drift<br />
+    Like a person after disaster.<br />
+    But hearts still warm for a smile<br />
+    And love finds a way— and sorrow.<br />
+    There’s no easy way<br />
+    Along your journey,<br />
+    To believe so is deceit.<br />
+    When your last breath leaves you<br />
+    You’ll know it’s bittersweet.   
+    `
+
+    symphonyOfAliveness = `
+    River rocks bend to water’s will<br />
+    Creating new channels, new current,<br />
+    Silver flecks green edges of riparian leaves,<br />
+    Canadian geese idly searching for treasure.<br />
+    Is the world still alive if my eyes don’t observe?<br />
+    Or alive when my mind wanders and scurries?<br />
+    How many times have I walked past a river<br />
+    Blind to the symphony of aliveness?<br />
+    Worried thoughts hide present moments.<br />
+    Awareness is the gift.   
+    `
+
+    navigatingAGalaxy = `
+    While on my normal daily walk<br />
+    An orange and errant monarch butterfly<br />
+    Graced the summer sky in passing flutter,<br />
+    Navigating a galaxy of cottonwood snow<br />
+    Drifting from Idaho riverbank trees.<br />
+    Often it’s the simple things<br />
+    That fills my mind with wonder.   
+    `
+
+
+
 
     poems1() {
         let data = 
         [
-            {id: "national-empire", img: "national-empire.jpg", title: "National Empire", poem: this.nationalEmpire},
-            {id: "sans-anesthesia", img: "rogue-wave.jpg", title: "Sans Anesthesia", poem: this.sansAnesthesia},
-            {id: "good-intentions", img: "sagebrush.jpg", title: "Missteps of Good Intentions", poem: this.missteps},
-            {id: "false-horizon", img: "snow.jpg", title: "False Horizon", poem: this.falseHorizon},
+            {id: "national-empire", img: "nationalEmpire.jpg", title: "National Empire", poem: this.nationalEmpire},
+            {id: "sans-anesthesia", img: "sansAnesthesia.jpg", title: "Sans Anesthesia", poem: this.sansAnesthesia},
+            {id: "missteps-of-good-intentions", img: "misstepsOfGoodIntentions.jpg", title: "Missteps of Good Intentions", poem: this.misstepsOfGoodIntentions},
+            {id: "false-horizon", img: "falseHorizon.jpg", title: "False Horizon", poem: this.falseHorizon},
             {id: "here-before", img: "hereBefore.jpg", title: "Here Before", poem: this.hereBefore},
             {id: "to-care", img: "toCare.jpg", title: "To Care", poem: this.toCare},
             {id: "chaos-of-ripples", img: "chaosOfRipples.jpg", title: "Chaos of Ripples", poem: this.chaosOfRipples},
@@ -269,7 +442,20 @@ export default class Poems1 {
             {id: "a-beautiful-life", img: "aBeautifulLife.jpg", title: "A Beautiful Life", poem: this.aBeautifulLife},
             {id: "question-time", img: "questionTime.jpg", title: "Question Time", poem: this.questionTime},
             {id: "flaubertian-struggle", img: "flaubertianStruggle.jpg", title: "Flaubertian Struggle", poem: this.flaubertianStruggle},
-            {id: "social-amnesia", img: "socialAmnesia.jpg", title: "Social Amnesia", poem: this.socialAmnesia}
+            {id: "social-amnesia", img: "socialAmnesia.jpg", title: "Social Amnesia", poem: this.socialAmnesia},
+            {id: "past-present", img: "pastPresent.jpg", title: "Past Present", poem: this.pastPresent},
+            {id: "tyranny-afoot", img: "tyrannyAfoot.jpg", title: "Tyranny Afoot", poem: this.tyrannyAfoot},
+            {id: "my-grandfathers-shop", img: "myGrandfathersShop.jpg", title: "My Grandfather's Shop", poem: this.myGrandfathersShop},
+            {id: "trespass-in-its-resplendence", img: "trespassInItsResplendence.jpg", title: "Trespass in its Resplendence", poem: this.trespassInItsResplendence},
+            {id: "its-a-choice-to-be-kind", img: "itsAChoiceToBeKind.jpg", title: "It's a Choice to be Kind", poem: this.itsAChoiceToBeKind},
+            {id: "a-man-of-courage", img: "aManOfCourage.jpg", title: "A Man of Courage", poem: this.aManOfCourage},
+            {id: "began-to-drift", img: "beganToDrift.jpg", title: "Began to Drift", poem: this.beganToDrift},
+            {id: "symphony-of-aliveness", img: "symphonyOfAliveness.jpg", title: "Symphony of Aliveness", poem: this.symphonyOfAliveness},
+            {id: "navigating-a-galaxy", img: "navigatingAGalaxy.jpg", title: "Navigating a Galaxy", poem: this.navigatingAGalaxy},
+
+
+
+
         ]
         return data
     }
