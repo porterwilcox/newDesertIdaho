@@ -8,7 +8,7 @@ export default class Poems {
     for (let i = 0; i < this.poemsArray.length; i++) {
       template += `
       <a data-toggle="modal" data-target="#${this.poemsArray[i].id}">
-      <div class="card border-secondary shadow">
+        <div class="card border-secondary shadow">
           <img class="card-img-top mt-3 px-2" src="assets/img/${this.poemsArray[i].img}" alt="Card image cap">
           <div class="card-body">
               <h4 class="card-title text-center">${this.poemsArray[i].title}</h4>
@@ -47,7 +47,7 @@ export default class Poems {
                   </div>
               </div>
           </div>
-      </div>
+        </div>
       </a>
       `
     }

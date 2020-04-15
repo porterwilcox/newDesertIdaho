@@ -384,8 +384,159 @@ export default class Poems2 {
     A mountain of hope.  
     `
 
+    timeAndAgain = `
+    Tender, tender, time and again<br />
+    Her love like the morning sun—<br />
+    Warming hope in flowers stretched long for praise.<br />
+    She smiles in the pale dawn light sneaking past wicker wood shades.<br />
+    Her breath is slow and free now.<br />
+    Wind whistles at the trees<br />
+    Shadowing pictures on the wall, and<br />
+    Hiding footprints in the sand of late night walks from the sea.<br />
+    We reach to hold hands on those walks,<br />
+    So many days the very same way.<br />
+    Like in Idaho<br />
+    On the brown basalt canyon rim above the river,<br />
+    With the brave blue sky<br />
+    And sage in the air,<br />
+    Birds swirling to land in the rocks,<br />
+    Holding my wife's hand,<br />
+    Her hair waving across my face with the breeze.<br />
+    A desert orchestra of possibilities before us.   
+    `
 
+    lastBreathLeavesYou = `
+    You don't have the answers.<br />
+    Everything you expect to happen might not.<br />
+    Life makes no guarantees.<br />
+    Existence is triumphantly strange,<br />
+    Our eyes see different things<br />
+    Both are true, yet incomplete.<br />
+    Be forever wary of people's intentions,<br />
+    Their egoic efforts are orchestrated too.<br />
+    Learn to treasure your anonymity.<br />
+    Each morning is a new chance<br />
+    The possibilities eternal,<br />
+    So stand tall and be your better self.<br />
+    Breathe in the present moment—<br />
+    Happiness is awareness and acceptance,<br />
+    Joy is in the small things.<br />
+    And when your last breath leaves you<br />
+    Hope that you know love.   
+    `
 
+    shiftingSeas = `
+    Hearts yearn for a home<br />
+    And feelings heal bearing new scars,<br />
+    Altering the courses we travel<br />
+    In our journey to the stars.<br />
+    Golden moonrise sea shine<br />
+    Calms stormy oceans of worry,<br />
+    Rolling with the swelling waves<br />
+    Helps ebb our need to hurry.<br />
+    The smallest drops of water unite<br />
+    To create the current’s force,<br />
+    Blue bliss upon the shifting seas<br />
+    My thoughts cannot divorce.<br />
+    Sailors know the ocean’s fury<br />
+    Sailors know the ocean’s charms,<br />
+    Gusting dreams on windy waters<br />
+    Listing away from landlocked harms.  
+    `
+
+    nunavut = `
+    Inukshuk stone elders, eying<br />
+    Arctic blue waters, on<br />
+    Polar permafrost planets, with<br />
+    More mosquitoes than stars.<br />
+    Roaming wild eaters, searching<br />
+    Frozen white deserts, above<br />
+    Precious rare minerals, near<br />
+    Swimming lake-trout and char.  
+    `
+
+    falconWings = `
+    It was a scorching bright blue<br />
+    The sky that day<br />
+    With a steady west wind howling by.<br />
+    The desert's grey dirt swirled dancing<br />
+    Sagebrush ruffled and waved without pause,<br />
+    As a young jack merlin leaped airborne<br />
+    Not for his prey, but applause.<br />
+    Cotton ball clouds cast shadows below<br />
+    Critters raced around just to survive,<br />
+    And up in the air soared that merlin so high<br />
+    Happy with falcon wings and the ride.<br />
+    The wind blew, and gust, and eddied, and sheared<br />
+    Teaching the jack merlin about grace.   
+    `
+
+    transientCurrents = `
+    Learn to read the river.<br />
+    Watch the double back<br />
+    Downstream of the boulder.<br />
+    See the green glassy waves.<br />
+    Be the river swell,<br />
+    Then exhale.<br />
+    Align yourself along the seams<br />
+    Of the transient currents<br />
+    Roiled in the narrowing canyon.<br />
+    Two paddle strokes<br />
+    River water in your veins.<br />
+    The sun sets, orange and bright,<br />
+    Water like time flows downstream.<br />
+    Campfire memories on riverside beaches<br />
+    Shooting stars, whiskey, and dreams.   
+    `
+
+    peacefulAcquiescence = `
+    Desert knows no tomorrow<br />
+    Doesn't mind what happens today<br />
+    Can't remember the hailing, stormy winds<br />
+    Nor the birdsong's tribute in the amber sweet morning calm.<br />
+    Pervasive sage grows green strong… then withers<br />
+    Dying dirt swirls freely… then settles<br />
+    Burning sun sends its love unrestrained.<br />
+    Desert knows no tomorrow,<br />
+    Only peaceful acquiescence to barren brown plains.  
+    `
+
+    shadeTree = `
+    Hot,<br />
+    Like a late August<br />
+    Shade tree<br />
+    Southern Idaho afternoon.<br />
+    Sipping iced drinks from colorful plastic patio chairs,<br />
+    Kids leaping over spinning sprinklers<br />
+    Dripping wet with desert laughter and sun—<br />
+    Immersed in the innocent freedom of frivolous play—<br />
+    Spirited blades of green grass stuck between their flighty toes,<br />
+    Birds along the cedar fence cheering<br />
+    Tree shadows obediently shifting<br />
+    Below a painter's stroke of wispy cirrus clouds<br />
+    Fading to stationary blue.  
+    `
+
+    wantingCeaselessly = `
+    Upslope wind flutters the beige-grey grasses<br />
+    Dancing hillside with their rising pink sun god.<br />
+    Squirrels shuffle 'round the rocks<br />
+    Maple trees whisper their leafy life song,<br />
+    Clouds chalk party.<br />
+    I watch<br />
+    I listen<br />
+    As my skin glows warm<br />
+    Breathing the warm wind,<br />
+    Connected in time and place to now.<br />
+    Some never open their eyes to the simple things,<br />
+    Trapped in their own narrative<br />
+    Lost to the voice in their head<br />
+    Chasing dreams that never come<br />
+    Wanting ceaselessly<br />
+    Missing what is…<br />
+    Untethered to the joy of now.<br />
+    And the grass sways merrily.  
+    `
 
     poems2() {
         let data = 
@@ -420,11 +571,15 @@ export default class Poems2 {
             {id: "yakutat-bay-crossing", img: "yakutatBayCrossing.jpg", title: "Yakutat Bay Crossing", poem: this.yakutatBayCrossing},
             {id: "painfully-true", img: "painfullyTrue.jpg", title: "Painfully True", poem: this.painfullyTrue},
             {id: "la-silla", img: "laSilla.jpg", title: "La Silla", poem: this.laSilla},
-            {id: "", img: "birds.jpg", title: "Birds", poem: this.birds},
-
-
-
-
+            {id: "time-and-again", img: "timeAndAgain.jpg", title: "Time and Again", poem: this.timeAndAgain},
+            {id: "last-breath-leaves-you", img: "lastBreathLeavesYou.jpg", title: "Last Breath Leaves You", poem: this.lastBreathLeavesYou},
+            {id: "shifting-seas", img: "shiftingSeas.jpg", title: "Shifting Seas", poem: this.shiftingSeas},
+            {id: "nunavut", img: "nunavut.jpg", title: "Nunavut", poem: this.nunavut},
+            {id: "falcon-wings", img: "falconWings.jpg", title: "Falcon Wings", poem: this.falconWings},
+            {id: "transient-currents", img: "transientCurrents.jpg", title: "Transient Currents", poem: this.transientCurrents},
+            {id: "peaceful-acquiescence", img: "peacefulAcquiescence.jpg", title: "Peaceful Acquiescence", poem: this.peacefulAcquiescence},
+            {id: "shade-tree", img: "shadeTree.jpg", title: "Shade Tree", poem: this.shadeTree},
+            {id: "wanting-ceaselessly", img: "wantingCeaselessly.jpg", title: "Wanting Ceaselessly", poem: this.wantingCeaselessly},
         ]
         return data
     }

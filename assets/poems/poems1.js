@@ -652,7 +652,6 @@ export default class Poems1 {
             {id: "news-swirls", img: "newsSwirls.jpg", title: "News Swirls", poem: this.newsSwirls},
             {id: "as-you-move-boldly", img: "asYouMoveBoldly.jpg", title: "As You Move Boldly", poem: this.asYouMoveBoldly},
             {id: "duty-to-adventure", img: "dutyToAdventure.jpg", title: "Duty to Adventure", poem: this.dutyToAdventure},
-
         ]
         return data
     }

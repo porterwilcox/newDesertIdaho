@@ -18,5 +18,4 @@ export default class PoemsController {
       _ps.getPoems2()
     }
   }
-  
 }
