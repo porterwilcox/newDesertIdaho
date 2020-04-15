@@ -52,7 +52,7 @@ body {
 }
 
 .about-box {
-  border-radius: 5px;
+  border-radius: 2px;
   border: 1px solid rgb(110, 110, 110);
   background-color: black;
 }
@@ -70,9 +70,12 @@ body {
 
 .amazon-btn {
   color: black;
-  padding-top: 0.65vh;
-  padding-bottom: 0.65vh;
+  padding: 0.65vh 0.9vw 0.65vh 0.9vw !important;
   font-size: 1.02rem;
+}
+
+.book-buttons {
+  margin-top: 9vh;
 }
 
 .btn,
@@ -203,12 +206,11 @@ footer {
   .title {
     color: black !important;
     font-size: 1.5rem;
-    margin: 2.8rem 0px 0px 1rem !important;
+    margin-top: 2rem !important;
   }
 
   .sub-title {
     color: black !important;
-    margin: 0.5rem 0px 0px 1rem !important;
     font-size: 0.8rem;
   }
 
@@ -221,7 +223,7 @@ footer {
   }
 
   .about-box {
-    margin-top: -1rem !important;
+    margin-top: -3rem !important;
     margin-left: 10vw !important;
     margin-right: 10vw !important;
     padding-left: 0.8rem !important;
@@ -229,12 +231,19 @@ footer {
   }
 
   .book {
-    margin: 9vw 0 0 0;
+    margin: 9vw 0 0 10vw;
+  }
+
+  .page2-book {
+    margin-top: -5vh !important;
   }
 
   .amazon-btn {
-    font-size: 1rem;
+    padding: 0.65vh 4.6vw 0.65vh 4.6vw !important;
+  }
 
+  .book-buttons {
+    margin-top: 2vh;
   }
 
   .about {
@@ -263,6 +272,11 @@ footer {
 
   .footer-icons {
     size: 20% !important;
+  }
+
+  footer {
+    min-width: 100vw;
+    margin-left: -4vw;
   }
 
 }
