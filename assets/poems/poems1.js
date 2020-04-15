@@ -4,7 +4,7 @@ export default class Poems1 {
     nationalEmpire = `
     Hungry and afraid they soldiered onward </br>
     Finding peace in the simplest of things— </br>
-    A cumulus picture in the expansive blue afternoon sky,
+    A cumulus picture in the expansive blue afternoon sky, <br />
     The greening yard of an early Idaho spring, <br />
     Flowers, so beautiful, vivid, and real. <br />
     Heroically they survived the dying days <br />

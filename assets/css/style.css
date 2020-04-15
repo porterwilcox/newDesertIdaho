@@ -70,7 +70,7 @@ body {
 
 .amazon-btn {
   color: black;
-  padding: 0.65vh 0.9vw 0.65vh 0.9vw !important;
+  padding: 0.65vh 1.1vw 0.65vh 1.1vw !important;
   font-size: 1.02rem;
 }
 
@@ -104,8 +104,8 @@ input {
   margin-top: 0.3rem;
 }
 
-.maria_flores {
-  font-size: small !important;
+#first-raindrops {
+  font-size: 0.8rem !important;
 }
 
 .footer-icons {
