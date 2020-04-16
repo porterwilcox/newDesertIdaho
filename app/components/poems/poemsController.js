@@ -4,6 +4,7 @@ const _ps = new PoemsService()
 
 function drawPoems() {
   let template = _ps.Poems.poemsTemplate()
+  window.alert(template)
   document.querySelector('#poems-cards').innerHTML = template
 }
 
