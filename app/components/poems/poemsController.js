@@ -11,12 +11,13 @@ function drawPoems() {
 export default class PoemsController {
   constructor() {
     _ps.addSubscriber('poems', drawPoems) 
-    let page = window.location.href || window.location
-    if (page.includes("/page2.html")) {
-      _ps.getPoems2()
-    }
-    else {
-      _ps.getPoems1()
-    }
+    _ps.getPoems1()
+    // let page = window.location.href || window.location
+    // if (page.includes("/page2.html")) {
+    //   _ps.getPoems2()
+    // }
+    // else {
+    //   _ps.getPoems1()
+    // }
   }
 }
